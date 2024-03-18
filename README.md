@@ -1,7 +1,5 @@
 # PySpark and Spark-SQL
 
-# PySpark and Spark-SQL
-
 PySpark and Spark SQL are both part of Apache Spark, which is an open-source, distributed computing system that provides an interface for programming entire clusters with implicit data parallelism and fault tolerance.
 
 ## PySpark:
