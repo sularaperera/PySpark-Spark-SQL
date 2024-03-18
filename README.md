@@ -1,7 +1,4 @@
-# PySpark and Spark-SQL
-
-<img src="https://github.com/sularaperera/PySpark-Spark-SQL/blob/main/PySpark.png" width="400"></img>
-<img src="https://github.com/sularaperera/PySpark-Spark-SQL/blob/main/SparkSQL.jpeg" width="400"></img>
+<img src="https://github.com/sularaperera/PySpark-Spark-SQL/blob/main/images/banner.png"></img>
 
 PySpark and Spark SQL are both parts of Apache Spark. Apache Spark is a free system for processing large amounts of data across many computers, making it faster and more reliable. PySpark lets you use Python to write programs that can handle huge amounts of information, while Spark SQL helps you manage and question data in a way similar to SQL. They both help in analyzing big sets of data across many computers.
 
