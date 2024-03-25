@@ -42,4 +42,5 @@ Demonstrations of Data Manipulation Language (DML) operations like insert, updat
 
 
 👉 Explore the Code: Dive into the details and uncover the inner workings of PySpark data processing techniques by clicking on the file below. Navigate through the code to see practical examples and step-by-step explanations. Happy exploring!
-View the Notebook : https://github.com/sularaperera/PySpark-Spark-SQL/blob/main/NoteBook.ipynb
+## View the Notebook : 
+https://github.com/sularaperera/PySpark-Spark-SQL/blob/main/NoteBook.ipynb
