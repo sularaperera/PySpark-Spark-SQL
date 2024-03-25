@@ -41,6 +41,6 @@ Instructions on creating managed and external tables in Delta format, showcasing
 Demonstrations of Data Manipulation Language (DML) operations like insert, update, and delete within Spark SQL.
 
 
-👉 Explore the Code: Dive into the details and uncover the inner workings of PySpark data processing techniques by clicking on the file below. Navigate through the code to see practical examples and step-by-step explanations. Happy exploring!
 ## View the Notebook : 
+👉 Explore the Code: Dive into the details and uncover the inner workings of PySpark data processing techniques by clicking on the file below. Navigate through the code to see practical examples and step-by-step explanations. Happy exploring!
 https://github.com/sularaperera/PySpark-Spark-SQL/blob/main/NoteBook.ipynb
